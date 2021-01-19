@@ -1,0 +1,19 @@
+﻿  Game.cpp
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(26,22): warning C4244: '=': conversion from 'float' to 'int32_t', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(27,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(18,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(19,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(20,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(21,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(22,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(26,22): warning C4244: '=': conversion from 'float' to 'int32_t', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(27,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(18,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(19,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(20,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(21,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(22,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Sources\main.cpp(17,16): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  Project-POO-nextpong.vcxproj -> D:\CoaDE\Project-POO-nextpong\Debug\Project-POO-nextpong.exe

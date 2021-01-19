@@ -1,0 +1,61 @@
+﻿  Ball.cpp
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(26,22): warning C4244: '=': conversion from 'float' to 'int32_t', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(27,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Sources\Ball.cpp(110,37): warning C4244: '=': conversion from 'float' to 'int32_t', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Sources\Ball.cpp(111,36): warning C4244: '=': conversion from 'float' to 'int32_t', possible loss of data
+  Button.cpp
+  Game.cpp
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(26,22): warning C4244: '=': conversion from 'float' to 'int32_t', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(27,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(18,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(19,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(20,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(21,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(22,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(26,22): warning C4244: '=': conversion from 'float' to 'int32_t', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(27,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(18,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(19,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(20,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(21,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(22,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Sources\main.cpp(17,16): warning C4018: '>': signed/unsigned mismatch
+  Object.cpp
+D:\CoaDE\Project-POO-nextpong\Sources\Object.cpp(11,18): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Sources\Object.cpp(12,18): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Sources\Object.cpp(13,18): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Sources\Object.cpp(14,18): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  Player.cpp
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(26,22): warning C4244: '=': conversion from 'float' to 'int32_t', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(27,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(18,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(19,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(20,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(21,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(22,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  PowerUps.cpp
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(26,22): warning C4244: '=': conversion from 'float' to 'int32_t', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(27,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(18,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(19,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(20,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(21,1): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Headers\Player.h(22,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Sources\PowerUps.cpp(13,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Sources\PowerUps.cpp(14,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  SaveManager.cpp
+  Text.cpp
+D:\CoaDE\Project-POO-nextpong\Sources\Text.cpp(39,18): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Sources\Text.cpp(40,18): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Sources\Text.cpp(41,18): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+D:\CoaDE\Project-POO-nextpong\Sources\Text.cpp(42,18): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  Texture.cpp
+D:\CoaDE\Project-POO-nextpong\Sources\Texture.cpp(19,13): warning C4101: 'e': unreferenced local variable
+  Tick.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\CoaDE\Project-POO-nextpong\Headers\Ball.h(23): warning C4172: returning address of local variable or temporary: info
+  All 437 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project-POO-nextpong.vcxproj -> D:\CoaDE\Project-POO-nextpong\Release\Project-POO-nextpong.exe

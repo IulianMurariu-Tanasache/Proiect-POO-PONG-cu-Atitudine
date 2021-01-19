@@ -1,0 +1,2 @@
+D:\CoaDE\Project-POO-nextpong\Debug\Project-POO-nextpong.exe
+D:\CoaDE\Project-POO-nextpong\Debug\Project-POO-nextpong.pdb
